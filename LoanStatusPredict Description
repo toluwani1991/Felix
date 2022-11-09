@@ -1,0 +1,4 @@
+This is a classification problem.
+Based on an historical data set of a financial institution's customers with the target variable being the loanstatus of borrowing customers,
+The objective is to predict what the loanstatus of a potential borrowing customer with the model built.
+Leveraging cross validation to determine which algorithm best suites the use case based on model accuracy, Logistic Regression was used.
